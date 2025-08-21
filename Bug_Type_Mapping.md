@@ -1,4 +1,4 @@
-| Bug Type                   | Bug Type.1   |   Llama3.1-8B |   Claude3.5 |   DeepSeek-v3 |   GPT-4o |   Infinas |
+| Bug Type                   | Bug Type id  |   Llama3.1-8B |   Claude3.5 |   DeepSeek-v3 |   GPT-4o |   Infinas |
 |:---------------------------|:-------------|--------------:|------------:|--------------:|---------:|----------:|
 | Logical Error              | Bug1         |            10 |           0 |             1 |        0 |         6 |
 | Index Error                | Bug2         |             0 |           3 |             3 |        3 |         6 |
