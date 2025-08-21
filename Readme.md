@@ -20,7 +20,7 @@ The included table maps each bug type identifier to its description and the freq
 
 ## Full Table
 
-The complete mapping is available in bug_type_mapping.md.  
+The complete mapping is available in Bug_Type_Mapping.md.  
 It includes all bug types and their corresponding statistics.
 
 
