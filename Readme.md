@@ -5,7 +5,7 @@ The included table maps each bug type identifier to its description and the freq
 
 ## Example (First 10 Rows)
 
-| Bug Type                   | Bug ID | Llama3.1-8B | Claude3.5 | DeepSeek-v3 | GPT-4o | Infinas |
+| Bug Type                   | Bug Tyepe ID | Llama3.1-8B | Claude3.5 | DeepSeek-v3 | GPT-4o | Infinas |
 |:---------------------------|:-------|------------:|----------:|------------:|-------:|--------:|
 | Logical Error              | Bug1   |          10 |         0 |           1 |      0 |       6 |
 | Index Error                | Bug2   |           0 |         3 |           3 |      3 |       6 |
